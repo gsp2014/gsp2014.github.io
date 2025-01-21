@@ -21,7 +21,7 @@ repository               : "gsp2014/gsp2014.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "gsp.png"
   name             : "Saiping Guan"
   pronouns         : # example: "she/her"  
   bio              : "Associate professor at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)"
