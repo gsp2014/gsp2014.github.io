@@ -23,6 +23,7 @@ Hornors and Awards
 
 Academic Services
 ======
+- Publicity Chair: The 2019 ICDM Workshop on Data Science and Big Data Analytics.
 - Conference Program Committee Member: ACL, SIGIR, WWW, AAAI, EMNLP, NAACL, etc.
 - Reviewer: TPAMI, TII, TFS, TKDE, ESWA, TBD, IPM, SCIS, IEEE Intelligent Systems, TOIS, TETCI, TOMM, TCSS, TKDD, DI, etc.
 
