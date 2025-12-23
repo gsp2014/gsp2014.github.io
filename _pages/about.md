@@ -19,14 +19,13 @@ I welcome motivated master’s students with interests in data value enhancement
 
 Undergraduate students who intend to pursue a master’s or Ph.D. degree at the ICT, CAS, or at overseas institutions are also encouraged to apply for research internships.
 
-If you are interested, please send your CV to guansaiping@ict.ac.cn
-, together with a brief statement of your research interests and future plans.
+If you are interested, please send your CV to guansaiping@ict.ac.cn, together with a brief statement of your research interests and future plans.
 
 Hornors and Awards
 ======
-- 2024, Academic New Star in ICT, CAS
-- 2024, Excellect Researcher in ICT, CAS
-- 2020, Excellect Researcher in ICT, CAS
+- 2024, Academic New Star in the ICT, CAS
+- 2024, Excellect Researcher in the ICT, CAS
+- 2020, Excellect Researcher in the ICT, CAS
 - 2019, Excellent Doctoral Graduates of Beijing
 - 2017, Best Student Paper Award in the 8th IEEE International Conference on Big Knowledge
 
