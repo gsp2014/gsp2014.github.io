@@ -11,7 +11,16 @@ redirect_from:
 I am currently an associate professor at the Key Laboratory of Network Data Science and Technology (directed by [Prof. Jiafeng
 Guo](http://www.bigdatalab.ac.cn/gjf/)), Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. degree in Computer Software and Theory from the ICT, CAS in 2019, under the supervision of [Prof. Xiaolong Jin](http://www.bigdatalab.ac.cn/jxl/). Before that, I gained my B.S. degree in Computer Science and Technology from Beijing University of Chemical Technology in 2014.
 
-My current research interests include **knowledge graph**, **n-ary relations**, **data space**, etc. Recently, I focus on explainable small model for knowledge inference and data valuation. I have published more than 30 papers in prestigious journals and conferences, including TKDE, KAIS, WWW, SIGIR, ACL, etc.
+My current research interests include **data value enhancement**, **data quality improvement**, **knowledge graph**, etc. Recently, my work has focused on developing explainable and insightful models for data value and data quality improvement. I have published more than 30 papers in prestigious journals and conferences, including TKDE, KAIS, WWW, SIGIR, ACL, etc.
+
+Recruiting
+======
+I welcome motivated master’s students with interests in data value enhancement and data quality improvement to join my research group.
+
+Undergraduate students who intend to pursue a master’s or Ph.D. degree at the ICT, CAS, or at overseas institutions are also encouraged to apply for research internships.
+
+If you are interested, please send your CV to guansaiping@ict.ac.cn
+, together with a brief statement of your research interests and future plans.
 
 Hornors and Awards
 ======
