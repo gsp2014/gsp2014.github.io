@@ -15,7 +15,7 @@ My current research interests include **data value enhancement**, **data quality
 
 Recruiting
 ======
-I welcome motivated master’s students with interests in data value enhancement and data quality improvement to join my research group.
+I welcome motivated master’s students with interests in data value enhancement and data quality improvement for LLM fine-tuning to join my research group.
 
 Undergraduate students who intend to pursue a master’s or Ph.D. degree at the ICT, CAS, or at overseas institutions are also encouraged to apply for research internships.
 
