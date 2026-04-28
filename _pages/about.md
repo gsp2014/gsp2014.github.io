@@ -23,15 +23,19 @@ If you are interested, please send your CV to guansaiping@ict.ac.cn, together wi
 
 Hornors and Awards
 ======
-- 2024, Academic New Star in the ICT, CAS
-- 2024, Excellect Researcher in the ICT, CAS
-- 2020, Excellect Researcher in the ICT, CAS
+- 2024, 2025, and 2026, a corresponding-author paper was selected for the Most Influential SIGIR Papers released by Paper Digest
+- 2024, the First Prize of the Qian Weichang Chinese Information Processing Science and Technology Award
+- 2024, New Hundred Stars Talent Program, ICT, CAS
+- 2024, Excellect Researcher, ICT, CAS
+- 2020, the High-Impact Paper Award (first author) of Journal of Software
+- 2020, Excellect Researcher, ICT, CAS
 - 2019, Excellent Doctoral Graduates of Beijing
-- 2017, Best Student Paper Award in the 8th IEEE International Conference on Big Knowledge
+- 2017, Best Student Paper Award (first author) at the 8th IEEE International Conference on Big Knowledge
 
 Academic Services
 ======
 - Publicity Chair: The 2019 ICDM Workshop on Data Science and Big Data Analytics.
+- Area Chair: ACL.
 - Conference Program Committee Member: ACL, SIGIR, WWW, AAAI, EMNLP, NAACL, etc.
 - Reviewer: TPAMI, TII, TFS, TKDE, ESWA, TBD, IPM, SCIS, IEEE Intelligent Systems, TOIS, TETCI, TOMM, TCSS, TKDD, DI, etc.
 
@@ -39,3 +43,4 @@ Project
 ======
 - The National Youth Fund, 2021.01-2023.12
 - SMP-IDATA Open Youth Fund, 2024.01-2024.12
+- Sub-project of a Key Project, ICT, CAS, 2025.06-2027.05
